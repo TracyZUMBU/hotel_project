@@ -223,7 +223,7 @@ body {
   .overview__location {
     font-size: 1.2rem;
     display: flex;
-    vertical-align: center; }
+    align-content: center; }
   .overview__icon-location {
     margin-right: .5rem; }
   .overview__rating {
